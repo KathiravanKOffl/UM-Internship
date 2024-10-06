@@ -1,5 +1,3 @@
----
-
 # **Movie Recommender System**
 
 ## **Table of Contents**
@@ -189,4 +187,3 @@ For production deployment, you can consider deploying the Flask app on cloud ser
 
 ## **Contributors**
 - **Kathiravan K**: [GitHub Profile](https://github.com/kathir-btech)
----
