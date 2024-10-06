@@ -2,7 +2,6 @@
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -17,29 +16,6 @@
 
 ## **Project Overview**
 The **Movie Recommender System** is a machine learning project aimed at providing personalized movie recommendations to users based on their previous ratings and preferences. The system leverages collaborative filtering techniques using the **Singular Value Decomposition (SVD)** algorithm to predict the ratings a user may give to movies they haven’t yet rated. It is designed to suggest movies that the user is likely to enjoy.
-
----
-
-## **Project Structure**
-
-```
-Movie-Recommender-System/
-│
-├── data/
-│   ├── movies_metadata.csv       # Movies metadata dataset
-│   ├── ratings_small.csv         # User ratings dataset
-│
-├── notebooks/
-│   ├── EDA.ipynb                 # Exploratory Data Analysis
-│   ├── Model_Building.ipynb      # Model building and training
-│
-├── app/
-│   ├── app.py                    # Flask API for recommendation
-│
-├── requirements.txt              # Required libraries and dependencies
-├── README.md                     # Project documentation
-└── LICENSE                       # License for the project
-```
 
 ---
 
